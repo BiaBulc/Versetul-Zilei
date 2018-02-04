@@ -1,0 +1,116 @@
+  .bg {
+  background:url("../img/pink.png") no-repeat fixed center;
+  background:url("...img/new-bgpic/new_bg")	no-repeat fixed center;  
+  background-size:cover;   
+  height:100%;
+  width:100%;
+  
+  
+
+}
+
+
+.text{
+   
+  margin-top: 150px;
+  font-size: 45px;
+  
+  text-align:center;   
+  font-family: 'Diplomata SC', cursive; 
+    
+}
+
+
+.book{
+	
+  height:124px;
+  width:194px;
+  margin-top:123px;
+  margin-left:30px;
+
+}
+
+.button{
+	display:inline-block;
+	background-color: lightpink;
+	border-color: black;
+	border-radius: 38%;
+	margin-right:64px;
+	margin-top:20px;
+	height:45px;
+	width:77px;
+}
+
+
+.button2{
+	display:inline-block;
+	background-color: lightpink;
+	border-color: black;
+	border-radius: 38%;
+	margin-right:122px;
+	margin-top:19px;
+	margin-bottom: 50px;
+	height:44px;
+	width:96px;
+}
+
+.img-responsive calendar{
+	
+     width: 50%;
+	
+}
+
+
+
+p{
+	
+	margin-top:29px;
+	font-size:20px;
+	border-top:solid;
+	border-left:solid;
+	border-right:solid;
+	border-bottom:solid;
+	border-color: black;
+	
+}
+
+
+
+.chenar{
+	
+	width:400px;
+	height:170px;
+	margin-top:47px;
+	text-align: center;
+	
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+.fetita{
+	
+	margin-left:29px;
+	
+}
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
